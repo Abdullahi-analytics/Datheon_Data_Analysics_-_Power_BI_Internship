@@ -1,5 +1,7 @@
 # Superstore Sales & Profitability Performance Analysis
 
+![Monthly Sales Velocity](monthly_trend_detheon.png)
+
 ## Executive Summary
 This project evaluates retail transaction data from the Superstore dataset to analyze purchasing behavior, category revenue drivers, monthly sales seasonality, and discount sensitivity. Utilizing Python (`pandas`, `matplotlib`, `seaborn`) in a Jupyter Notebook environment, the analysis processes transactional records, aggregates business metrics across dimensions (Category, Region, and Segment), models monthly velocity trends, and investigates the impact of discount strategies on net profitability.
 
@@ -49,6 +51,7 @@ Retail operations often struggle to maintain healthy profit margins when leverag
    * **Discount Sensitivity Analysis:** Constructed a scatter plot (`Discount` vs. `Profit` colored by `Category`) with a zero-profit threshold line ($y=0$).
 
 ---
+![Discount Sensitivity Analysis](discount_sensitity_datheon_db.png)
 
 ## Key Findings & Business Insights
 
