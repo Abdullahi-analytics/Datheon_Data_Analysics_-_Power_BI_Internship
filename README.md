@@ -80,6 +80,16 @@ Retail operations often struggle to maintain healthy profit margins when leverag
 
 ```text
 Datheon_Data_Analytics_&_Power_BI_Internship/
-├── datheon_first_task.ipynb        # Primary Jupyter Notebook containing data cleaning, aggregations, and charts
-├── superstore_sales.csv     # Input dataset file
-└── README.md                # Project documentation and executive summary
+├── Datheon_First_Task.ipynb
+├── superstore_sales.csv
+├── discount_sensitity_datheon_db.png
+├── monthly_trend_datheon.png
+└── README.md
+
+
+```
+## Author
+
+**Abdullahi Muhammed Soliu**
+[Linkedin](https://www.linkedin.com/in/abdullahi-muhammed-soliu-074598417)
+**Gmail**:(abdullahimuhammedsoliu0018@gmail.com)
